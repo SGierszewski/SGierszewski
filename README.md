@@ -1,10 +1,10 @@
 <h1 align="center"> Hi there 👋  I'm Stefanie </h1>
 
-<h2 align="center"> I'm a 🐠 Biologist evolving into 👩‍💻 Web Developer </h2>
+<h2 align="center"> I'm a 👩‍💻 Junior Web Developer with a background in Biology </h2>
 
 
 - 🔭 I’m currently working on [Hutello](https://github.com/SGierszewski/hutello)
-- 🌱 I’m currently learning to code using TypeScript and React
+- 🌱 I’m currently learning to code using TypeScript, React and Storybook
 - 📝 I'm a member of [ESLR](https://www.eslrsociety.org/) and Editor in Chief for [Cultured Scene](https://www.cs.eslrsociety.org/)
 - 📫 How to reach me:
 [LinkedIn](https://www.linkedin.com/in/stefanie-gierszewski/) or [XING](https://www.xing.com/profile/Stefanie_Gierszewski/cv)
